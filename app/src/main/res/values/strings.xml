@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AllergyDetector</string>
+
+    <string name="ic_registration_title">Register</string>
+    <string name="ic_sign_up">Sign up to continue</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="email_id">Email Id</string>
+    <string name="phone">Phone</string>
+
+    <string name="ad_signin">Sign in</string>
+    <string name="ad_account">Allready have account?</string>
+    <string name="register_label">REGISTER</string>
+
+    <string name="empty_username">Username cannot be empty!</string>
+    <string name="empty_password">Password cannot be empty!</string>
+    <string name="empty_email">Email Id cannot be empty!</string>
+    <string name="empty_phone">Phone number cannot be empty</string>
+    <string name="invalid_password">Passwords must be at least 6 characters long</string>
+
+    <string name="ic_title">ALLERGY DETECTOR</string>
+    <string name="login_label">LOGIN</string>
+    <string name="ad_register">Sign Up</string>
+</resources>
